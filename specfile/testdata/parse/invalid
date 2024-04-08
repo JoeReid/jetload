@@ -1,0 +1,5 @@
+stream:
+messages:
+  - subject: profile.4c31c006-b120-407d-bcca-0e83bd465ce7
+    json: '{"user_id": "4c31c006-b120-407d-bcca-0e83bd465ce7", "username": "Alice"}'
+

@@ -1,0 +1,8 @@
+stream: USERS
+messages:
+  - subject: profile.b80bacdc-c556-426d-b31c-2dea8f7eed48
+    json: '{"user_id": "b80bacdc-c556-426d-b31c-2dea8f7eed48", "username": "CookerThrower"}'
+  - subject: profile.bb5cf92e-8e96-4a5b-991e-60b234f453fe
+    json: '{"user_id": "bb5cf92e-8e96-4a5b-991e-60b234f453fe", "username": "EagerPencil"}'
+  - subject: profile.4b7e13fb-215f-4390-a2a6-50b47600bb96
+    json: '{"user_id": "4b7e13fb-215f-4390-a2a6-50b47600bb96", "username": "LycheeCalm"}'

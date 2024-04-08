@@ -1,0 +1,7 @@
+stream: USERS
+messages:
+{{- range (seq 3) }}
+  {{- $user_id := faker.UUID }}
+  - subject: profile.{{ $user_id }}
+    json: '{"user_id": "{{ $user_id }}", "username": "{{ faker.GamerTag }}"}'
+{{- end }}
